@@ -65,12 +65,12 @@ build/
 dist/
 node_modules/
 aws-exports.js
-awsconfiguration.json
-amplifyconfiguration.json
+# awsconfiguration.json
+# amplifyconfiguration.json
 <<<<<<< HEAD
-amplifyconfiguration.dart
+# amplifyconfiguration.dart
 =======
-amplifyconfiguration.dart
+# amplifyconfiguration.dart
 >>>>>>> b251eee011e22980675c33fdb8caaf27e0612827
 amplify-build-config.json
 amplify-gradle-config.json
